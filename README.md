@@ -1,4 +1,4 @@
-# [Django Soft Dashboard]
+# [EGIN]
 ![Django Admin Soft - Template project for Django provided by EGIN.](https://user-images.githubusercontent.com/51070104/215729207-5cce250e-54da-4712-89a9-c1fd6b0a149e.png)
 
 <br />
