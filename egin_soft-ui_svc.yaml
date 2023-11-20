@@ -9,7 +9,7 @@ spec:
   selector:
     app: eginsoftui
   ports:
-    - port: 8000
+    - port: 5005
       nodePort: 30011
       protocol: TCP
-      targetPort: 8000
+      targetPort: 5005
