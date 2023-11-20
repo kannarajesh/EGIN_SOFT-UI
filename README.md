@@ -124,27 +124,3 @@ $danger:        #ea0606 !default;   // EDIT for customization
 At this point, the product should be LIVE.
 
 <br />
-
-## [Django Soft Dashboard](https://dummy/product/soft-ui-dashboard-pro/django/) `PRO`
-
-This design is a pixel-perfect [Bootstrap 5](https://www.admin-dashboards.com/bootstrap-5-templates/) Dashboard with a fresh, new design concept. `Soft UI Dashboard PRO` is built with over 300 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
-
-> Features: 
-
-- `Up-to-date Dependencies`
-- `Design`: [Django Theme Soft PRO](https://github.com/app-generator/django-admin-soft-pro) - `PRO Version`
-- `Sections` covered by the design:
-  - **Admin section** (reserved for superusers)
-  - **Authentication**: `Django.contrib.AUTH`, Registration
-  - **All Pages** available in for ordinary users 
-- `Docker`, `Deployment`:
-  - `CI/CD` flow via `Render`
-
-<br />
-
-![Soft UI Dashboard Pro](https://user-images.githubusercontent.com/51070104/211278814-881e0fcf-7986-4386-afee-540aa0f53bba.png)
-
-<br />
-
----
-[Django Soft Dashboard](https://dummy/product/soft-ui-dashboard/django/) - **Django** starter provided by **[EGIN](https://dummy/)**
