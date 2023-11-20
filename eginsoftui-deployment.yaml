@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: eginsoftui
+  labels:
+    app: eginsoftui
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: eginsoftui
+  template:
+    metadata:
+      labels:
+        app: eginsoftui
+    spec:
+      containers:
+        - image: kannarajesh064/eginsoftui:GIVEMEBUILD__NUMBER
+          name: eginsoftui
+          ports:
+            - containerPort: 8000
+              name: eginsoftui
