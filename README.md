@@ -1,39 +1,5 @@
-# [Django Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/django/)
-
-Open-source **[Django Dashboard](https://appseed.us/admin-dashboards/django/)** crafted on top of **Soft UI Dashboard**, an open-source `Bootstrap 5` design from `Creative-Tim`.
-Designed for those who like bold elements and beautiful websites. Made of hundreds of elements, designed blocks and fully coded pages, `Soft UI Dashboard` is ready to help you create stunning websites and web apps.
-
-- 👉 [Django Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/django/) - `Product page`
-- 👉 [Django Soft Dashboard](https://django-soft-dash.onrender.com) - `LIVE Demo`
-
---- 
-
-## 🚀 **[Black Friday Campaign](https://appseed.us/)** is LIVE: `65%Off`
-
-> `React`, `Django`, `Flask`, and `NodeJs` starters crafted and actively supported by **AppSeed**
- 
-[![](https://github-production-user-asset-6210df.s3.amazonaws.com/51070104/280080081-1e7c91c0-612f-4418-81e7-34c363378479.jpg)](https://appseed.us/)
-
-<br />
-
-## Features
-
-> `Have questions?` Contact **[Support](https://appseed.us/support/)** (Email & Discord) provided by **AppSeed**
-
-| Free Version                          | [PRO Version](https://appseed.us/product/soft-ui-dashboard-pro/django/)    | 🚀 Custom - $1999 (plus VAT)         |  
-| --------------------------------------| --------------------------------------| --------------------------------------|
-| ✓ **Django 4.1.12**                   | **Everything in Free**, plus:                                        | **Everything in PRO**, plus:       |
-| ✓ Best Practices                      | ✅ **Premium Bootstrap Design**                                      | ✅ **1mo Custom Development**     | 
-| ✓ `Bootstrap 5`, Soft Dashboard UI    | ✅ `OAuth` Google, GitHub                                            | ✅ **Dedicated Developer**        |
-| ✓ `Docker`                            | ✅ `Extended User Model`                                             | ✅ Weekly Sprints                 |
-| ✓ `CI/CD` Flow via Render             | ✅ `Private REPO Access`                                             | ✅ Technical SPECS                |
-| ✓ `Free Support`                      | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)  | ✅ Documentation                  |
-| -                                     | ✅ Deployment Assistance                                             | ✅ **30 days Delivery Warranty**  |
-| ------------------------------------  | ------------------------------------                                  | ------------------------------------|
-| ✓ [LIVE Demo](https://django-soft-dash.onrender.com/)  | 🚀 [LIVE Demo](https://django-soft-dash-pro.onrender.com/) | 🛒 `Order`: **[$1999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |   
-
-
-![Django Admin Soft - Template project for Django provided by AppSeed.](https://user-images.githubusercontent.com/51070104/215729207-5cce250e-54da-4712-89a9-c1fd6b0a149e.png)
+# [Django Soft Dashboard]
+![Django Admin Soft - Template project for Django provided by EGIN.](https://user-images.githubusercontent.com/51070104/215729207-5cce250e-54da-4712-89a9-c1fd6b0a149e.png)
 
 <br />
 
@@ -159,7 +125,7 @@ At this point, the product should be LIVE.
 
 <br />
 
-## [Django Soft Dashboard](https://appseed.us/product/soft-ui-dashboard-pro/django/) `PRO`
+## [Django Soft Dashboard](https://dummy/product/soft-ui-dashboard-pro/django/) `PRO`
 
 This design is a pixel-perfect [Bootstrap 5](https://www.admin-dashboards.com/bootstrap-5-templates/) Dashboard with a fresh, new design concept. `Soft UI Dashboard PRO` is built with over 300 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
 
@@ -181,4 +147,4 @@ This design is a pixel-perfect [Bootstrap 5](https://www.admin-dashboards.com/bo
 <br />
 
 ---
-[Django Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/django/) - **Django** starter provided by **[AppSeed](https://appseed.us/)**
+[Django Soft Dashboard](https://dummy/product/soft-ui-dashboard/django/) - **Django** starter provided by **[EGIN](https://dummy/)**
