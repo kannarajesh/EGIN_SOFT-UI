@@ -18,5 +18,5 @@ spec:
         - image: kannarajesh064/eginsoftui:GIVEMEBUILD__NUMBER
           name: eginsoftui
           ports:
-            - containerPort: 8000
+            - containerPort: 5005
               name: eginsoftui
